@@ -3,7 +3,6 @@
 </p>
 
 ## PROFESSIONAL SUMMARY:
-
 *  Over **6+ years** of experience in Analysis, Design, Development, Management and Implementation of various stand-alone, client-server enterprise applications.
 *  Experience in multi-tiered distributed environment, **OOAD concepts**, good understanding of Software Development Lifecycle (SDLC).
 *  Strong experience of software development in **Python** (libraries used: **Beautiful Soup, numpy, scipy, matplotlib, Python-twitter, Pandas dataframe, networkx, urllib2, MySQLdb for database connectivity)** and IDEs – **sublime text and Pycharm**.
@@ -18,7 +17,6 @@
 *  Having experienced in **Agile Methodologies, Scrum** stories and sprints experience in a **Python** based environment, along with data analytics, data wrangling and Excel data extracts.
 
 ## TECHNICAL SKILLS:
-
 |**Languages**|Python, Shell Script, SQL, PHP|
 |**Framework/Tools**|Flask/Django, Beautiful soup, Flask, Pandas, PyUnit, PyQuery, Wireshark, NumPy, SciPy, Matplotlib, Webapp2|
 |**Databases**|MS SQL, MySQL, Oracle|
@@ -29,9 +27,10 @@
 |**Operating Systems**|Window, Linux|
 
 ## PROFESSIONAL EXPERIENCE:
+|**Client: WorkSafe BC, Vancouver, BC.**|**Jan 2018 – Till Date**|
 
-**Client: WorkSafe BC, Vancouver, BC.  Jan 2018 – Till Date**
 **Role: Python Developer**
+
 **Environment:** Python, Django, PyUnit, PyQuery, XML, JSON, HTML, Wireshark, Pandas, REST, AWS, Node.js, Bootstrap, CSS, JQuery, MySQL, Agile and Linux.
 ### Responsibilities:
 *  Responsible for gathering requirements, system analysis, design, development, testing and deployment.
@@ -49,8 +48,10 @@
 *  Developed web applications and **RESTful web services** and **APIs** using **Python, Django and Flask**.
 *  Involved in **Agile** Methodologies, Scrum stories and sprints experience in a **Python** based environment, along with data analytics, data wrangling and Excel data extracts.
 
-**Client: Shaw Communications - Calgary, AB.	  Nov 2016 – Dec 2017**
+|**Client: Shaw Communications - Calgary, AB.**|**Nov 2016 – Dec 2017**|
+
 **Role: Python Developer**
+
 **Environment:** Python, Django, Beautiful soup, matplotlib, Scipy, Numpy, Node.js, XML, PyQt, PyUnit, webapp2, GitHub, Pandas, MySQL, REST, JSON, PostgreSQL, Oracle, PL/SQL, HTML, XHTML, AJAX, CSS, JavaScript, Jira and Agile.
 ### Responsibilities:
 *  Involved in building database Model, APIs and Views utilizing **Python**, in order to build an interactive web based solution.
@@ -66,8 +67,10 @@
 *  Created **PyUnit** test cases for unit testing.
 *  Developed **SQL Queries, Stored Procedures,** and **Triggers** Using **Oracle, SQL and PL/SQL**.
 
-**Client: Discovery Air, Etobicoke, ON.	 Oct 2015 – Oct 2016**
+|**Client: Discovery Air, Etobicoke, ON.**|**Oct 2015 – Oct 2016**|
+
 **Role: Python Developer**
+
 **Environment:** Python, Django, Pandas, XML, XHTML, AJAX, CSS, JQuery, GitHub, SQL, Rest API, Jira and Agile.
 ### Responsibilities:
 *  Participated in the development of application architecture and blueprints to define application components, platforms, interfaces and development tools.
@@ -81,8 +84,10 @@
 *  Used **JQuery** and **Ajax** calls for transmitting **JSON** data objects between frontend and controllers.
 *  Utilized **Agile** process and **JIRA** issue management to track sprint cycles.
 
-**Client: Mobisys, India.	Apr 2013 – Sep 2015**
+|**Client: Mobisys, India.**|**Apr 2013 – Sep 2015**|
+
 **Role: Python Developer**
+
 **Environment:** Python, Django, Flask, PyQt, PyTest, XML, JQuery, HTML, CSS, JavaScript, SOAP, Jira and SQL.
 ### Responsibilities:
 *  Responsible for analyzing various cross-functional, multi-platform applications systems enforcing python, best practices and provide guidance in making long term architectural design decisions.
@@ -98,8 +103,10 @@
 *  Responsible for debugging the project monitored on **JIRA (Agile)**.
 *  Participated in weekly release meetings with Technology stakeholders to identify and migrate potential risks associated with the releases.
 
-**Client: NEC Technologies India Limited, India	 Nov 2011 – Mar 2013**
+|**Client: NEC Technologies India Limited, India**|**Nov 2011 – Mar 2013**|
+
 **Role: Senior Software Engineer/Member Technical Staff**
+
 **Environment:** Perl, SQL & PLSQL (MySQL) on Linux, Python (Django), HTML5, CSS, JavaScript (jQuery)
 ### Responsibilities:
 *  Created various Server Health reporting tools using Perl on Linux with the data maintained on MySQL database
@@ -108,11 +115,13 @@
 *  Learned Python and its Framework Django for Transport Help Desk project
 *  For the Hydrastore project, managed the backend part of the GUI as a part of GUI-base team. Majority of the base code was in Perl and some in bash. Worked primarily on fixing BUGS and enhancements
 
-**Client: Oracle India Private Limited, India	Mar 2007 – Oct 2011**
+|**Client: Oracle India Private Limited, India**|**Mar 2007 – Oct 2011**|
+
 **Environment:** Perl’s MVC Framework “Catalyst”, Linux and MySQL, Perl, SQL & PLSQL (MySQL) on Linux, SVN
 ### Responsibilities:
 **Role: Software Engineer/Technical Solutions Engineer, 2010 - 2011**
 *  Enhanced internal online application which was installing/removing EPM (Enterprise package manager’s) packages on organization’s Linux servers catering to customer’s requirements. Administrators using the application could monitor the installation progress too
+
 **Role: Software Engineer/Systems Engineer, 2007 - 2010**
 *  Worked as production support engineer to a third party Linux authentication and logging tool called PowerBroker from BeyondTrust
 *  Administered Powerbroker which had its own policy code. Learned the policy language to write code to manage authentication and control user access to various levels. Managed PB’s session and keystroke logging too
@@ -120,12 +129,14 @@
 *  Created another script, for the LDAP directory population using Perl’s CPAN Modules of this host info gathered
 *  Applied internal security team’s list of security requirement (in an xml file) on all Linux boxes using a Perl application. The application generates a detailed report in an xls sheet and subsequently emailing it to the security team's ML
 
-**California Digital India Pvt. Ltd., India	 Jun 2004 – Sep 2006**
+|**Client: California Digital India Pvt. Ltd., India**|**Jun 2004 – Sep 2006**|
+
 **Role: Software Engineer**
+
 **Environment:** Linux (BASH, Perl), C, MATLAB, System Imager and Oscar Cluster installation technologies
 ### Responsibilities:
 *  Worked in GE-JFWTC as a service provider, as a part of GE’s HPC Team setting up and maintaining Linux clusters and servers remotely. Wrote Bash and Perl (for automation of various processes) scripts
 *  Worked on Image processing and Camera calibration tool project requiring MATLAB code to be converted to C using VXL libraries
 
 ## EDUCATION:
-Bachelor of Engineering, Visveswaraiah Technological University (VTU), India (Evaluated by W.E.S.)		**2004**
+Bachelor of Engineering, Visveswaraiah Technological University (VTU), India (Evaluated by W.E.S.) **2004**
