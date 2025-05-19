@@ -28,7 +28,6 @@
 
 ## PROFESSIONAL EXPERIENCE:
 |**Client: WorkSafe BC, Vancouver, BC.**|**Jan 2018 – Till Date**|
-
 **Role: Python Developer**
 
 **Environment:** Python, Django, PyUnit, PyQuery, XML, JSON, HTML, Wireshark, Pandas, REST, AWS, Node.js, Bootstrap, CSS, JQuery, MySQL, Agile and Linux.
@@ -49,7 +48,6 @@
 *  Involved in **Agile** Methodologies, Scrum stories and sprints experience in a **Python** based environment, along with data analytics, data wrangling and Excel data extracts.
 
 |**Client: Shaw Communications - Calgary, AB.**|**Nov 2016 – Dec 2017**|
-
 **Role: Python Developer**
 
 **Environment:** Python, Django, Beautiful soup, matplotlib, Scipy, Numpy, Node.js, XML, PyQt, PyUnit, webapp2, GitHub, Pandas, MySQL, REST, JSON, PostgreSQL, Oracle, PL/SQL, HTML, XHTML, AJAX, CSS, JavaScript, Jira and Agile.
@@ -68,7 +66,6 @@
 *  Developed **SQL Queries, Stored Procedures,** and **Triggers** Using **Oracle, SQL and PL/SQL**.
 
 |**Client: Discovery Air, Etobicoke, ON.**|**Oct 2015 – Oct 2016**|
-
 **Role: Python Developer**
 
 **Environment:** Python, Django, Pandas, XML, XHTML, AJAX, CSS, JQuery, GitHub, SQL, Rest API, Jira and Agile.
@@ -85,7 +82,6 @@
 *  Utilized **Agile** process and **JIRA** issue management to track sprint cycles.
 
 |**Client: Mobisys, India.**|**Apr 2013 – Sep 2015**|
-
 **Role: Python Developer**
 
 **Environment:** Python, Django, Flask, PyQt, PyTest, XML, JQuery, HTML, CSS, JavaScript, SOAP, Jira and SQL.
@@ -104,7 +100,6 @@
 *  Participated in weekly release meetings with Technology stakeholders to identify and migrate potential risks associated with the releases.
 
 |**Client: NEC Technologies India Limited, India**|**Nov 2011 – Mar 2013**|
-
 **Role: Senior Software Engineer/Member Technical Staff**
 
 **Environment:** Perl, SQL & PLSQL (MySQL) on Linux, Python (Django), HTML5, CSS, JavaScript (jQuery)
@@ -116,7 +111,6 @@
 *  For the Hydrastore project, managed the backend part of the GUI as a part of GUI-base team. Majority of the base code was in Perl and some in bash. Worked primarily on fixing BUGS and enhancements
 
 |**Client: Oracle India Private Limited, India**|**Mar 2007 – Oct 2011**|
-
 **Environment:** Perl’s MVC Framework “Catalyst”, Linux and MySQL, Perl, SQL & PLSQL (MySQL) on Linux, SVN
 ### Responsibilities:
 **Role: Software Engineer/Technical Solutions Engineer, 2010 - 2011**
@@ -130,7 +124,6 @@
 *  Applied internal security team’s list of security requirement (in an xml file) on all Linux boxes using a Perl application. The application generates a detailed report in an xls sheet and subsequently emailing it to the security team's ML
 
 |**Client: California Digital India Pvt. Ltd., India**|**Jun 2004 – Sep 2006**|
-
 **Role: Software Engineer**
 
 **Environment:** Linux (BASH, Perl), C, MATLAB, System Imager and Oscar Cluster installation technologies
