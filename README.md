@@ -15,7 +15,7 @@
 *  Experience in Web Application Development, hands on experience of **Python/Django, Flask, SQL Alchemy, SQLite, JavaScript, JQuery, HTML5/CSS3, Bootstrap** and **JSON/AJAX**.
 *  Experienced in working with various **Python IDE's** using **PyCharm, PyScripter, Spyder, PyStudio**, and **PyDev**.
 *  Having experienced in **Agile Methodologies, Scrum** stories and sprints experience in a **Python** based environment, along with data analytics, data wrangling and Excel data extracts.
-
+---
 ## TECHNICAL SKILLS:
 | **Category**         | **Skills/Technologies**                                                                                     |
 |----------------------|-------------------------------------------------------------------------------------------------------------|
