@@ -1,6 +1,4 @@
-<p align="right">
-    <img src="/assets/python_logo.jpg" alt="logo">
-</p>
+![logo](/assets/python_logo.jpg)
 
 ## PROFESSIONAL SUMMARY:
 
