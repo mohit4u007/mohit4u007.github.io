@@ -1,3 +1,5 @@
+![logo](/assets/python_logo.jpg)
+
 ## PROFESSIONAL SUMMARY:
 
 *  Over **6+ years** of experience in Analysis, Design, Development, Management and Implementation of various stand-alone, client-server enterprise applications.
