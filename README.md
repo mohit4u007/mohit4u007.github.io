@@ -1,4 +1,6 @@
-![logo](/assets/python_logo.jpg)
+<p align="right">
+    <img src="/assets/python_logo.jpg" alt="logo">
+</p>
 
 ## PROFESSIONAL SUMMARY:
 
