@@ -3,7 +3,6 @@
 </p>
 
 ## PROFESSIONAL SUMMARY:
-
 *  Over **6+ years** of experience in Analysis, Design, Development, Management and Implementation of various stand-alone, client-server enterprise applications.
 *  Experience in multi-tiered distributed environment, **OOAD concepts**, good understanding of Software Development Lifecycle (SDLC).
 *  Strong experience of software development in **Python** (libraries used: **Beautiful Soup, numpy, scipy, matplotlib, Python-twitter, Pandas dataframe, networkx, urllib2, MySQLdb for database connectivity)** and IDEs – **sublime text and Pycharm**.
@@ -16,10 +15,8 @@
 *  Experience in Web Application Development, hands on experience of **Python/Django, Flask, SQL Alchemy, SQLite, JavaScript, JQuery, HTML5/CSS3, Bootstrap** and **JSON/AJAX**.
 *  Experienced in working with various **Python IDE's** using **PyCharm, PyScripter, Spyder, PyStudio**, and **PyDev**.
 *  Having experienced in **Agile Methodologies, Scrum** stories and sprints experience in a **Python** based environment, along with data analytics, data wrangling and Excel data extracts.
-
 ---
 ## TECHNICAL SKILLS:
-
 | **Category**         | **Skills/Technologies**                                                                                     |
 |----------------------|-------------------------------------------------------------------------------------------------------------|
 | **Languages**        | Python, Shell Script, SQL, PHP                                                                              |
@@ -32,7 +29,6 @@
 | **Operating Systems**| Windows, Linux                                                                                              |
 ---
 ## PROFESSIONAL EXPERIENCE:
-
 **Client: WorkSafe BC, Vancouver, BC.**<br/>
 **Duration: Jan 2018 – Till Date**<br/>
 **Role: Python Developer**<br/>
@@ -52,7 +48,6 @@
 *  Utilize **PyUnit**, the **Python** unit test framework, for all **Python** applications.
 *  Developed web applications and **RESTful web services** and **APIs** using **Python, Django and Flask**.
 *  Involved in **Agile** Methodologies, Scrum stories and sprints experience in a **Python** based environment, along with data analytics, data wrangling and Excel data extracts.
-
 ---
 **Client: Shaw Communications - Calgary, AB.**<br/>
 **Duration: Nov 2016 – Dec 2017**<br/>
@@ -71,7 +66,6 @@
 *  Utilized **Agile** process and **JIRA** issue management to track sprint cycles.
 *  Created **PyUnit** test cases for unit testing.
 *  Developed **SQL Queries, Stored Procedures,** and **Triggers** Using **Oracle, SQL and PL/SQL**.
-
 ---
 **Client: Discovery Air, Etobicoke, ON.**<br/>
 **Duration: Oct 2015 – Oct 2016**<br/>
@@ -88,7 +82,6 @@
 *  Responsible for setting up **Python REST API** framework using **Django**.
 *  Used **JQuery** and **Ajax** calls for transmitting **JSON** data objects between frontend and controllers.
 *  Utilized **Agile** process and **JIRA** issue management to track sprint cycles.
-
 ---
 **Client: Mobisys, India.**<br/>
 **Duration: Apr 2013 – Sep 2015**<br/>
@@ -107,7 +100,6 @@
 *  Involved in development of Web Services using **SOAP** for sending and getting data from the external interface in the XML format.
 *  Responsible for debugging the project monitored on **JIRA (Agile)**.
 *  Participated in weekly release meetings with Technology stakeholders to identify and migrate potential risks associated with the releases.
-
 ---
 **Client: NEC Technologies India Limited, India**<br/>
 **Duration: Nov 2011 – Mar 2013**<br/>
@@ -119,7 +111,6 @@
 *  Created tools to perform extensive administration work on Linux servers like creating Excel data report sheets along with graphs and emailing them to Administrators in critical cases
 *  Learned Python and its Framework Django for Transport Help Desk project
 *  For the Hydrastore project, managed the backend part of the GUI as a part of GUI-base team. Majority of the base code was in Perl and some in bash. Worked primarily on fixing BUGS and enhancements
-
 ---
 **Client: Oracle India Private Limited, India**<br/>
 **Duration: Mar 2007 – Oct 2011**<br/>
@@ -134,7 +125,6 @@
 *  Developed an application using Perl to connect to internal hosts database, which carried information of all machines inside company and using database modules run sql query and retrieve specific data in a flatfile subsequently using this data for the authentication tool (PB). These scripts were matching host info and then allowing access
 *  Created another script, for the LDAP directory population using Perl’s CPAN Modules of this host info gathered
 *  Applied internal security team’s list of security requirement (in an xml file) on all Linux boxes using a Perl application. The application generates a detailed report in an xls sheet and subsequently emailing it to the security team's ML
-
 ---
 **Client: California Digital India Pvt. Ltd., India**<br/>
 **Duration: Jun 2004 – Sep 2006**<br/>
@@ -143,8 +133,6 @@
 **Responsibilities:**<br/>
 *  Worked in GE-JFWTC as a service provider, as a part of GE’s HPC Team setting up and maintaining Linux clusters and servers remotely. Wrote Bash and Perl (for automation of various processes) scripts
 *  Worked on Image processing and Camera calibration tool project requiring MATLAB code to be converted to C using VXL libraries
-
 ---
 ## EDUCATION:
-
 Bachelor of Engineering, Visveswaraiah Technological University (VTU), India (Evaluated by W.E.S.) **2004**
