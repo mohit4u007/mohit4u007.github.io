@@ -21,16 +21,16 @@
 
 ## TECHNICAL SKILLS:
 
-| **Category**         | **Skills/Technologies**                                                                                     |
-|----------------------|-------------------------------------------------------------------------------------------------------------|
-| **Languages**        | Python, Shell Script, SQL, PHP                                                                              |
-| **Frameworks/Tools** | Flask, Django, Beautiful Soup, Pandas, PyUnit, PyQuery, Wireshark, NumPy, SciPy, Matplotlib, Webapp2        |
-| **Databases**        | MS SQL, MySQL, Oracle                                                                                       |
-| **Web Technologies** | XML, CSS, HTML, DHTML, JavaScript, JQuery, MVC3, Bootstrap, RESTful, AJAX, Node.js                          |
-| **Web Services**     | SOAP, REST                                                                                                  |
-| **Tools & IDEs**     | Eclipse, PyDev, PyCharm, PyScripter, Spyder, PyStudio                                                       |
-| **Methodologies**    | Agile, Scrum                                                                                                |
-| **Operating Systems**| Windows, Linux                                                                                              |
+| **Category** | **Skills/Technologies** |
+| --- | --- |
+| **Languages**  | Python, Shell Script, SQL, PHP |
+| **Frameworks/Tools** | Flask, Django, Beautiful Soup, Pandas, PyUnit, PyQuery, Wireshark, NumPy, SciPy, Matplotlib, Webapp2 |
+| **Databases** | MS SQL, MySQL, Oracle |
+| **Web Technologies** | XML, CSS, HTML, DHTML, JavaScript, JQuery, MVC3, Bootstrap, RESTful, AJAX, Node.js |
+| **Web Services** | SOAP, REST |
+| **Tools & IDEs** | Eclipse, PyDev, PyCharm, PyScripter, Spyder, PyStudio |
+| **Methodologies** | Agile, Scrum |
+| **Operating Systems** | Windows, Linux |
 
 ---
 
