@@ -1,5 +1,5 @@
 <p align="right">
-    <img src="assets/python_logo.jpg" alt="logo">
+    <img src="assets/python_logo.jpg" alt="logo" width=150px height=150px border-radius=50% object-fit=cover>
 </p>
 
 ## PROFESSIONAL SUMMARY:
